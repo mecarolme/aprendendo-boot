@@ -1,0 +1,57 @@
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgba(255, 255, 255, 0.904);
+}
+
+.navbar{
+    background-color: #4d9900;
+}
+
+.nav-item{
+    margin-right: 10px;
+    padding-top: 10px;
+    font-family: 'Darker Grotesque', sans-serif;
+    opacity: 0.8;
+    font-size: 20px;
+}
+
+.quem-somos{
+    background-color: #2d2d86;
+}
+
+.quem-somos img{
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.quem-somos h4{
+    color: rgba(209, 209, 209, 0.89);
+}
+
+.servicos{
+    background-color: rgba(0, 0, 0, 0.822);
+}
+
+.servicos img{
+    border-radius: 15px;
+}
+
+.servicos p{
+    color: rgba(209, 209, 209, 0.89);
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 35px;
+}
+
+.parceiros{
+    background-color: #800000;
+}
+
+.bg-footer{
+    background-color: #660066;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
